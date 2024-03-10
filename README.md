@@ -58,7 +58,6 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/RobertArustamyan/RobertArustamyan/output/snake.svg" alt="Snake animation" />
+![GitHub User Contribution](github-user-contribution.svg)
 
 ###
