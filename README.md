@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Robert from Armenia<br><br>- 🔭 I’m student<br>- 📚 I'm currently learning ML andAI<br>- ⚡ In my free time, I experiment with new coding projects.</p>
+<p align="left">I'm Robert from Armenia<br><br>- 🔭 I’m student<br>- 📚 I'm currently learning ML and AI<br>- ⚡ In my free time, I experiment with new coding projects.</p>
 
 ###
 
