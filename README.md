@@ -2,11 +2,6 @@
 
 ###
 
-<h3 align="left">👨‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Robert from Armenia<br><br>-  I’m student<br>-  I'm currently learning ML and AI<br>-  In my free time, I experiment with new coding projects.</p>
 
 ###
 
